@@ -61,7 +61,7 @@ ex3SendBtn
 .value = '';
   ex3Input
   // 1. 先“找到”页面上的三个关键 DOM 元素
-const nameInput = document.querySelector('#name-input'); // 输入框
+const nameInput = document.querySelector('#name-input'); // 输入框S
 const genBtn = document.querySelector('#gen-btn');       // 按钮
 const result = document.querySelector('#result');        // 显示区域
 
